@@ -78,3 +78,8 @@ The testbench tests the cache controller against a series of strategic memory re
 
 ## 📝 License
 This project is open-source. Feel free to use and modify it for your academic assignments or laboratory experiments!
+
+# Author 
+
+Sumit Kumar Singh
+DTU,ECE
